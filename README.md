@@ -123,3 +123,5 @@ You can run these files rom the command line (provided you have PHP available) f
 `php iterator.php`
 
 The bigger the file you provide, the more dramatic the difference will be.
+
+[Learn more about PHP generators](https://www.php.net/manual/en/language.generators.overview.php)
