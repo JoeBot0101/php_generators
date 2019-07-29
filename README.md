@@ -116,7 +116,7 @@ This repo includes some example files you can run against a standard csv file of
 
 *PS - don't gloss over Iterator classes.  They offer similar performance to generator functions, but allow you to customize how the object gets iterated and what it returns on each iteration.* 
 
-You can run these files rom the command line (provided you have PHP available) from within the project root directory like this:
+You can run these files from the command line (provided you have PHP available) from within the project root directory like this:
 
 `php no_generator.php`
 
